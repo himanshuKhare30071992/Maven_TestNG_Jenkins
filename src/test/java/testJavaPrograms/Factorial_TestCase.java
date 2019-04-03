@@ -13,6 +13,6 @@ public class Factorial_TestCase extends FactorialProgram{
 @Test
   public void factorialTestCase() 
 	{
-		fp.factorialOf(5);
+		fp.factorialOf(10);
 	}
 }

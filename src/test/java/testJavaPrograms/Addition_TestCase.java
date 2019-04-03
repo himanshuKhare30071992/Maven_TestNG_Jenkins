@@ -13,6 +13,6 @@ public class Addition_TestCase extends FactorialProgram{
 @Test
   public void additionTestCase() 
 	{
-		fp.additionOf(2,4);
+		fp.additionOf(20,40);
 	}
 }
